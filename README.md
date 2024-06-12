@@ -1,10 +1,11 @@
 # Βρες το Σκορ!
 
-Επιλέξτε από την αρχική οθόνη τα πρωταθλήματα που θέλετε να συμμετέχουν στο παιχνίδι, το χρόνο παιχνιδιού καθώς και τον αριθμό των γύρων.
+Βρες το Σκορ' is a football-themed quiz game.
 
-Σε κάθε γύρο παιχνιδιού ένας από τους παίκτες του οποίου δεν είναι η σειρά να παίξει, αναλαμβάνει να εκφωνήσει 
-τον αγώνα της κάρτας που εμφανίζεται στην οθόνη.
+Select from the main screen the championships you want to participate in the game, the game time, and the number of rounds.
 
-Κάθε φορά που ένας παίκτης βρίσκει το σωστό σκορ, τότε 10 βαθμοί προστίθονται στους συνολικούς πόντους του.
+In each round of the game, one of the players, whose turn is not to play, undertakes to announce the match of the card displayed on the screen.
 
-Ο παίκτης εκτός από το συνολικό σκορ του αγώνα μπορεί να απαντήσει και τους σκόρερς της αναμέτρησης.
+Every time a player finds the correct score, then 10 points are added to their total points.
+
+Apart from the overall score of the match, the player can also answer the scorers of the match.
